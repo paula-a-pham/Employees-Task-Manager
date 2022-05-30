@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Icon/about.png</file>
+        <file>Icon/about_white.png</file>
+        <file>Icon/calendar.png</file>
+        <file>Icon/calendar_white.png</file>
+        <file>Icon/exit.png</file>
+        <file>Icon/exit_white.png</file>
+        <file>Icon/home.png</file>
+        <file>Icon/home_white.png</file>
+        <file>Icon/log-out.png</file>
+        <file>Icon/log-out_white.png</file>
+        <file>Icon/add.png</file>
+        <file>Icon/add_white.png</file>
+        <file>Icon/done.png</file>
+        <file>Icon/done_white.png</file>
+        <file>Icon/draft.png</file>
+        <file>Icon/draft_white.png</file>
+        <file>Icon/edit.png</file>
+        <file>Icon/edit_white.png</file>
+        <file>Icon/search.png</file>
+        <file>Icon/search_white.png</file>
+        <file>Icon/task.png</file>
+        <file>Icon/task_white.png</file>
+        <file>Icon/confirm_password.png</file>
+        <file>Icon/confirm_password_white.png</file>
+        <file>Icon/password.png</file>
+        <file>Icon/password_white.png</file>
+        <file>Icon/user.png</file>
+        <file>Icon/user_white.png</file>
+        <file>Icon/email.png</file>
+        <file>Icon/email_white.png</file>
+        <file>Icon/Periority-Number_1.png</file>
+        <file>Icon/Periority-Number_2.png</file>
+        <file>Icon/Periority-Number_3.png</file>
+        <file>Icon/Periority-Number_4.png</file>
+        <file>Icon/Periority-Number_5.png</file>
+        <file>Icon/Periority-Number_6.png</file>
+        <file>Icon/Periority-Number_7.png</file>
+        <file>Icon/Periority-Number_8.png</file>
+        <file>Icon/Periority-Number_9.png</file>
+        <file>Icon/Periority-Number_10.png</file>
+        <file>Icon/logo.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>Image/back_1.png</file>
+        <file>Image/back_2.png</file>
+        <file>Image/back_3.png</file>
+        <file>Image/empty.png</file>
+        <file>Image/logo.png</file>
+        <file>Image/back_4.png</file>
+    </qresource>
+</RCC>
